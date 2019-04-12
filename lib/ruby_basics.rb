@@ -26,7 +26,7 @@ def pizza_party (cheese)
   return "cheese"
 end
 
-def pizza_party (cheese)
-return "cheese"
+def pizza_party (topping)
+return topping
 end
 
